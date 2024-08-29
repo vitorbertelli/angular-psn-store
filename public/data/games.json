@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a6/Black_Myth_Wukong_cover_art.jpg",
+    "title": "Black Myth: Wukong",
+    "price": "R$299,90",
+    "platform": "PS5"
+  },
+  {
+    "id": 2,
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/0c05ae77009875cbfd368d348c2c4be3d04f7bdcc5e6ce5d.jpg",
+    "title": "Star Wars™ Outlaws",
+    "price": "R$549,50",
+    "platform": "PS5"
+  },
+  {
+    "id": 3,
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/40e7cfd126a11fe5118310ebce6d9b3a23e7cabaca717217.png",
+    "title": "Stellar Blade™",
+    "price": "R$349,90",
+    "platform": "PS5"
+  },
+  {
+    "id": 4,
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png",
+    "title": "God of War Ragnarök",
+    "price": "R$349,90",
+    "platform": "PS5 | PS4"
+  },
+  {
+    "id": 5,
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0817/114b1df9577098209a8bb8e45f4a009e201e9a2fa5113a06.png",
+    "title": "Elden Ring Shadow of the Erdtree",
+    "price": "R$214,90",
+    "platform": "PS5 | PS4"
+  },
+  {
+    "id": 6,
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/537b5208a8ee42935286a44b3b981da86d976bf54899bf98.jpg",
+    "title": "Final Fantasy VII Rebirth",
+    "price": "R$349,90",
+    "platform": "PS5"
+  },
+  {
+    "id": 7,
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1011/8bf6908bc4a21488c7bfa3bbf75ceca8f4c5137bafc136ae.png",
+    "title": "Madden NFL 25",
+    "price": "R$349,90",
+    "platform": "PS5"
+  }
+]

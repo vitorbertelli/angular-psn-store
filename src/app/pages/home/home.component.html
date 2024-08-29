@@ -1,0 +1,11 @@
+<div class="container">
+  @for(game of games$ | async; track $index) {
+    <app-card
+      [cover]="game.cover"
+      [title]="game.title"
+      [price]="game.price"
+      [platform]="game.platform"
+    >
+    </app-card>
+  }
+</div>

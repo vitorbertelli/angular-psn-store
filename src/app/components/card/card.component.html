@@ -1,0 +1,12 @@
+<a href="" class="container">
+  <img class="imagem" [src]="cover" alt="">
+  @if(label) {
+    <app-card-label [gameLabel]="label"></app-card-label>
+  }
+  <app-card-pricing
+    [gameType]="platform"
+    [gamePricing]="price"
+    [gameTitle]="title"
+  >
+  </app-card-pricing>
+</a>
